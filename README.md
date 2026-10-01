@@ -204,6 +204,48 @@ Areas I'm studying and practicing:
 - 🌐 RESTful API Development
 
 ---
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+  <img
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light"
+    alt="Developer Quote"
+  />
+</p>
+
+<div align="center">
+  <img
+    width="390"
+    src="https://github-readme-streak-stats-salesp07.vercel.app/?user=MinhTruongTranAnh05&count_private=true&include_all_commits=true&theme=transparent&hide_border=true"
+    alt="GitHub Streak"
+  />
+
+  <img
+    width="390"
+    src="https://thekhiem7-github-stats.vercel.app/api?username=MinhTruongTranAnh05&theme=transparent&hide_border=true&include_all_commits=true&count_private=true"
+    alt="GitHub Stats"
+  />
+</div>
+
+<div align="center">
+  <img
+    src="https://thekhiem7-github-stats.vercel.app/api/top-langs/?username=MinhTruongTranAnh05&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
+    alt="Most Used Languages"
+  />
+</div>
+
+<br>
+
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=MinhTruongTranAnh05&color=0069b4&style=flat-square&label=Profile+Views"
+    alt="Profile Views"
+  />
+</p>
+
+---
 
 # 📫 Connect With Me
 
