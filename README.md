@@ -88,41 +88,47 @@
 
 ---
 
-# ☁️ AWS Cloud Journey
+## ☁️ AWS Cloud Journey
 
-I'm currently strengthening my AWS knowledge through structured learning,
-hands-on labs, and practical cloud projects.
+I'm currently strengthening my AWS knowledge through structured learning, hands-on labs, and practical cloud projects.
 
-### AWS Certified Cloud Practitioner
+### 🎯 AWS Certified Cloud Practitioner
 
 Currently preparing for:
 
 **AWS Certified Cloud Practitioner — CLF-C02**
 
-`Cloud Concepts`
-`IAM`
-`EC2`
-`S3`
-`VPC`
-`RDS`
-`Lambda`
-`CloudWatch`
-`Security`
-`Pricing & Billing`
-`Shared Responsibility Model`
-
-## 🚀 AWS First Cloud Journey
-
-- ☁️ **Project 01** - Hands-on AWS project focused on understanding cloud architecture, AWS services, deployment environments, and practical implementation.
-
-- 🔜 **Project 02** - Coming soon.
-- 🔜 **Project 03** - Coming soon.
-- 🔜 **Project 04** - Coming soon.
-- 🔜 **Project 05** - Coming soon.
-
-> Learning cloud by building, experimenting, and understanding why each AWS service is used.
+`Cloud Concepts` `IAM` `EC2` `S3` `VPC` `RDS` `Lambda` `CloudWatch` `Security` `Pricing & Billing` `Shared Responsibility Model`
 
 ---
+
+### 🚀 AWS First Cloud Journey
+
+#### ☁️ Project 01
+Hands-on AWS project focused on understanding cloud architecture, AWS services, deployment environments, and practical implementation.
+
+#### 📘 FCJ Workshop Template
+Hugo-based workshop documentation template used for my AWS First Cloud Journey projects. I use and customize this template to organize technical documentation, hands-on steps, architecture explanations, and AWS workshop content.
+
+🔗 [View Repository](https://github.com/MinhTruongTranAnh05/fcj-workshop-template)
+
+**Tech:** `Hugo` `Markdown` `GitHub Actions` `GitHub Pages` `AWS Documentation`
+
+> Forked from the FCJ workshop template and customized for my own AWS learning and project documentation.
+
+#### 🔜 Project 02
+Coming soon.
+
+#### 🔜 Project 03
+Coming soon.
+
+#### 🔜 Project 04
+Coming soon.
+
+#### 🔜 Project 05
+Coming soon.
+
+> Learning cloud by building, experimenting, and understanding why each AWS service is used.
 
 # 🎓 Education
 
